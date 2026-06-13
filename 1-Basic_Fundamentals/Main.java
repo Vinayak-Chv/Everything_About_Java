@@ -21,5 +21,7 @@ public class Main {
 
         System.out.println(firstWord);
         System.out.println(wholeLine);
+
+        sc.close();
     }
 }
