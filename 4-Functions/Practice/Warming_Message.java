@@ -21,6 +21,8 @@ public class Warming_Message {
         int num = sc.nextInt();
 
         printMessage(msg, num);
+
+        sc.close();
     }
 
 }
