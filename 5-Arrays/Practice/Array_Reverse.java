@@ -10,5 +10,9 @@ public class Array_Reverse {
             start++;
             end--;
         }
+
+        for (int i : arr) {
+            System.out.println(i);
+        }
     }
 }
