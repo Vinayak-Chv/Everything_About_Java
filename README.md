@@ -12,6 +12,8 @@ Space complexity: Number of variables store in the memory
 
 To remove the memory consumption of 2D arrays: (rows _ columns) _ datatypes memory [for int it should be 4 bytes]
 
+Difference: arr.length (Total number of elements) and arr.length - 1 (Index of the last element)
+
 Timeline:
 Day 1: Basic Fundamentals of Java (I didn't practice much cuz it's the basic to basic)
 Day 2: Conditional Statements
