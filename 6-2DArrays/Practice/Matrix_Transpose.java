@@ -1,7 +1,5 @@
 package Practice;
 
-import java.util.Arrays;
-
 public class Matrix_Transpose {
     public static void main(String[] args) {
         int matrix[][] = {
