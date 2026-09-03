@@ -1,10 +1,12 @@
-public class Bit_Manipulation_Basics {
+// This operation is to check whether the value is 0 or 1.
+
+public class Get_Bit_Manipulation_Basics {
     public static void main(String[] args) {
         int n = 5;
         int position = 2;
-        int bitmask = 1<<position;
+        int bitMask = 1<<position;
 
-        if ((bitmask & n) == 0) {
+        if ((bitMask & n) == 0) {
             System.out.println("Bit was zero");
         }
         else {
