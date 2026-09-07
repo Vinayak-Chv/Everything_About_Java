@@ -1,3 +1,4 @@
+package Practice;
 import java.util.*;
 
 // Use .equals when comparing 2 values in the string (Non-primitive data types)

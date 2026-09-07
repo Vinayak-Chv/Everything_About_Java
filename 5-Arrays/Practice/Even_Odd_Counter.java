@@ -1,3 +1,5 @@
+package Practice;
+
 public class Even_Odd_Counter {
     public static void main(String[] args) {
         int arr[] = {12, 8, 92, 47, 8, 19};

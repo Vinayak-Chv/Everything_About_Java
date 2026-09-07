@@ -1,3 +1,5 @@
+package Practice;
+
 public class Minimum_Element {
     public static void main(String[] args) {
         int prices[] = {450, 299, 600, 150, 350};

@@ -1,3 +1,5 @@
+package Practice;
+
 public class Second_Num {
     public static void main(String[] args) {
         int largest = Integer.MIN_VALUE, secondLargest = Integer.MIN_VALUE;

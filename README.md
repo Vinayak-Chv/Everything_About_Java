@@ -16,6 +16,12 @@ Difference: arr.length (Total number of elements) and arr.length - 1 (Index of t
 
 Formula: N - 1 - i (To find the mirror of that value just like Diagonal and Anti-Diagonal)
 
+OOPs Concepts: 
+This keyword is use to bifurcate that which object is call it. 
+Polymorphism = We can do the same work with many forms
+    2 types: Function overloading (Compile time)
+             Function overriding (Runtime)
+
 Timeline:
 Day 1: Basic Fundamentals of Java (I didn't practice much cuz it's the basic to basic)
 Day 2: Conditional Statements

@@ -1,3 +1,5 @@
+package Practice;
+
 public class Count_Element_Occurance {
     public static void main(String[] args) {
         int arr[] = {4, 2, 4, 1, 4, 3, 2};

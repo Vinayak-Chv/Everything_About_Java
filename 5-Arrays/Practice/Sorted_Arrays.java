@@ -1,3 +1,5 @@
+package Practice;
+
 public class Sorted_Arrays {
     public static void main(String[] args) {
         int arr[] = {5, 12, 99, 18, 25};

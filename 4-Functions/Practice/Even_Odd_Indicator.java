@@ -1,3 +1,4 @@
+package Practice;
 import java.util.*;
 
 public class Even_Odd_Indicator {

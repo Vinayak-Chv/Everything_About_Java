@@ -1,3 +1,5 @@
+package Practice;
+
 public class Count_Frequency {
     public static void main(String[] args) {
         int nums[] = {2, 3, 2, 4, 3, 2};
