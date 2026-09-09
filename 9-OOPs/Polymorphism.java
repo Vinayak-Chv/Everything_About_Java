@@ -2,7 +2,9 @@ class Student {
     String name;
     int age;
 
-    // Same function name use for different purpose
+    // Same function name use for different purpose (Overloading)
+    // If parameters are same then return type should be different and vice versa
+    // And different types of arguments is also acceptable
     public void printInfo(String name) {
         System.out.println(name);
     }
