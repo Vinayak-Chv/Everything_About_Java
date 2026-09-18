@@ -22,10 +22,24 @@ Polymorphism = We can do the same work with many forms
     2 types: Function overloading (Compile time)
              Function overriding (Runtime)
 
+Collections Framework: 
+Data Structures: [List, Queue, Set] -> Collection -> Iterable
+Common methods in data structures: add, size, remove, iterable, addAll, removeAll, clear
+
+Interfaces:
+List Interface: ArrayList, LinkedList, Vector <- Stack
+Queue Interface (FIFO): PriorityQueue, LinkedList, Deque <- ArrayDeque(Double ended queue)
+Set Interface: HashSet, LinkedHashSet, SortedSet <- TreeSet
+Map Interface: HashMap, LinkedHashMap, SortedMap <- TreeMap, HashTable
+
 Timeline:
 Day 1: Basic Fundamentals of Java (I didn't practice much cuz it's the basic to basic)
 Day 2: Conditional Statements
 Day 3: Loops (Just forgot to commit this)
 Day 4: Functions
 Day 5: Arrays
-Day 6: Strings
+Day 6: 2D Arrays
+Day 7: Strings
+Day 8: Bit Manipulation (Completed the course but didn't practiced that much)
+Day 9: OOPs
+Day 10: ArrayList
